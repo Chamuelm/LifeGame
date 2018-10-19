@@ -15,7 +15,7 @@ This program caluclate the next generation cuncurrently and display matrix repre
 * Concurrent
 
 ## Screenshots: 
-* Input screen: 
+* Input screen:  
   ![](./pictures/LifeGame-InputScreen.png "Input screen")  
-* In Game: 
+* In Game:  
   ![](./pictures/LifeGame-Ingame.png "In game")  
